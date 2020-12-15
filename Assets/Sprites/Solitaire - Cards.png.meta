@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 5038804d2763399489a4970d7ffc6a01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6554694086898772378
+    second: Solitaire - Cards_0
+  - first:
+      213: -5771386641138291680
+    second: Solitaire - Cards_1
+  - first:
+      213: 7796258827115515813
+    second: Solitaire - Cards_2
+  - first:
+      213: 1259109825185283245
+    second: Solitaire - Cards_3
+  - first:
+      213: 9010404902423323765
+    second: Solitaire - Cards_4
+  - first:
+      213: 1514829789430742353
+    second: Solitaire - Cards_5
+  - first:
+      213: -8798291774408736414
+    second: Solitaire - Cards_6
+  - first:
+      213: -2668572308670081313
+    second: Solitaire - Cards_7
+  - first:
+      213: -6690626912428103015
+    second: Solitaire - Cards_8
+  - first:
+      213: 3018201396492159560
+    second: Solitaire - Cards_9
+  - first:
+      213: -3165819377939845531
+    second: Solitaire - Cards_10
+  - first:
+      213: -2662383511508509419
+    second: Solitaire - Cards_11
+  - first:
+      213: -8873356448869145654
+    second: Solitaire - Cards_12
+  - first:
+      213: 1139694235840963429
+    second: Solitaire - Cards_13
+  - first:
+      213: -6817879523056441291
+    second: Solitaire - Cards_14
+  - first:
+      213: 5728638318169773320
+    second: Solitaire - Cards_15
+  - first:
+      213: 1073825046546393493
+    second: Solitaire - Cards_16
+  - first:
+      213: 3430901609525023467
+    second: Solitaire - Cards_17
+  - first:
+      213: 8824246176616069628
+    second: Solitaire - Cards_18
+  - first:
+      213: 8935841791812068741
+    second: Solitaire - Cards_19
+  - first:
+      213: 5791001438359606011
+    second: Solitaire - Cards_20
+  - first:
+      213: 2353693067860571593
+    second: Solitaire - Cards_21
+  - first:
+      213: -555599591194571398
+    second: Solitaire - Cards_22
+  - first:
+      213: 1363622781271565843
+    second: Solitaire - Cards_23
+  - first:
+      213: 4566339266299438366
+    second: Solitaire - Cards_24
+  - first:
+      213: -8626965914401279782
+    second: Solitaire - Cards_25
+  - first:
+      213: -3493808245790277296
+    second: Solitaire - Cards_26
+  - first:
+      213: 8763794812347077880
+    second: Solitaire - Cards_27
+  - first:
+      213: 8958393865645486809
+    second: Solitaire - Cards_28
+  - first:
+      213: -969781233116018054
+    second: Solitaire - Cards_29
+  - first:
+      213: -8896098826520974130
+    second: Solitaire - Cards_30
+  - first:
+      213: -8250902850982969345
+    second: Solitaire - Cards_31
+  - first:
+      213: -8231616401584174655
+    second: Solitaire - Cards_32
+  - first:
+      213: -989406843357839548
+    second: Solitaire - Cards_33
+  - first:
+      213: 4697782601972439960
+    second: Solitaire - Cards_34
+  - first:
+      213: -806594694817228924
+    second: Solitaire - Cards_35
+  - first:
+      213: -4741651358988237271
+    second: Solitaire - Cards_36
+  - first:
+      213: 1709282244105174836
+    second: Solitaire - Cards_37
+  - first:
+      213: -7741114561838614291
+    second: Solitaire - Cards_38
+  - first:
+      213: 8089785494228717963
+    second: Solitaire - Cards_39
+  - first:
+      213: -8113174817361505978
+    second: Solitaire - Cards_40
+  - first:
+      213: 5558813338605626187
+    second: Solitaire - Cards_41
+  - first:
+      213: -6692554999838249917
+    second: Solitaire - Cards_42
+  - first:
+      213: -4877331068689943221
+    second: Solitaire - Cards_43
+  - first:
+      213: -5840859386980200479
+    second: Solitaire - Cards_44
+  - first:
+      213: 9077980588590246197
+    second: Solitaire - Cards_45
+  - first:
+      213: -3889344436180517438
+    second: Solitaire - Cards_46
+  - first:
+      213: -2022188941926024268
+    second: Solitaire - Cards_47
+  - first:
+      213: 8258272387690483616
+    second: Solitaire - Cards_48
+  - first:
+      213: 7150758501966266184
+    second: Solitaire - Cards_49
+  - first:
+      213: -4602395002839330399
+    second: Solitaire - Cards_50
+  - first:
+      213: -4683691460908714106
+    second: Solitaire - Cards_51
+  - first:
+      213: 6491314951151168132
+    second: Solitaire - Cards_52
+  - first:
+      213: 5626237538964538018
+    second: Solitaire - Cards_53
+  - first:
+      213: -818832126571448964
+    second: Solitaire - Cards_54
+  - first:
+      213: -1257297193819153903
+    second: Solitaire - Cards_55
+  - first:
+      213: -932999911288641701
+    second: Solitaire - Cards_56
+  - first:
+      213: 5853638674311247120
+    second: Solitaire - Cards_57
+  - first:
+      213: -3803118395108088690
+    second: Solitaire - Cards_58
+  - first:
+      213: -3213770192475006086
+    second: Solitaire - Cards_59
+  - first:
+      213: 6633866510519165369
+    second: Solitaire - Cards_60
+  - first:
+      213: -450951826766737548
+    second: Solitaire - Cards_61
+  - first:
+      213: -1221142391736581064
+    second: Solitaire - Cards_62
+  - first:
+      213: -5354603357908912772
+    second: Solitaire - Cards_63
+  - first:
+      213: 7647751280609041286
+    second: Solitaire - Cards_64
+  - first:
+      213: 3402673298672634202
+    second: Solitaire - Cards_65
+  - first:
+      213: -3769851396357694572
+    second: Solitaire - Cards_66
+  - first:
+      213: 8738442884099768669
+    second: Solitaire - Cards_67
+  - first:
+      213: -7932316778538237342
+    second: Solitaire - Cards_68
+  - first:
+      213: -4107034643182997633
+    second: Solitaire - Cards_69
+  - first:
+      213: -2604780746625188783
+    second: Solitaire - Cards_70
+  - first:
+      213: 4115063055066859438
+    second: Solitaire - Cards_71
+  - first:
+      213: -6460750539328575867
+    second: Solitaire - Cards_72
+  - first:
+      213: 4787674227057171291
+    second: Solitaire - Cards_73
+  - first:
+      213: 2778455767801851707
+    second: Solitaire - Cards_74
+  - first:
+      213: 5025690352437707816
+    second: Solitaire - Cards_75
+  - first:
+      213: 1542423627250547298
+    second: Solitaire - Cards_76
+  - first:
+      213: 5963052052650006193
+    second: Solitaire - Cards_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Solitaire - Cards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6669b0bc47c0905a0800000000000000
+      internalID: -6554694086898772378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c64819d6ae7efa0800000000000000
+      internalID: -5771386641138291680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af493fc810e13c60800000000000000
+      internalID: 7796258827115515813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac7f5707b1497110800000000000000
+      internalID: 1259109825185283245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574616305836b0d70800000000000000
+      internalID: 9010404902423323765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15df236eaa1c50510800000000000000
+      internalID: 1514829789430742353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261402c1f3036e580800000000000000
+      internalID: -8798291774408736414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6964cbf9357fad0800000000000000
+      internalID: -2668572308670081313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aed08854e1623a0800000000000000
+      internalID: -6690626912428103015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ac082dd2ec2e920800000000000000
+      internalID: 3018201396492159560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee8da8c00c014d0800000000000000
+      internalID: -3165819377939845531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d9dac5d405d0bd0800000000000000
+      internalID: -2662383511508509419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 480
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3abb3a2518bd480800000000000000
+      internalID: -8873356448869145654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5636cdf7ed101df00800000000000000
+      internalID: 1139694235840963429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538afca42b60261a0800000000000000
+      internalID: -6817879523056441291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055331e236308f40800000000000000
+      internalID: 5728638318169773320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599a052c03ef6ee00800000000000000
+      internalID: 1073825046546393493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21e0f06d20d9f20800000000000000
+      internalID: 3430901609525023467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9bccf0525067a70800000000000000
+      internalID: 8824246176616069628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5856c0af3cc720c70800000000000000
+      internalID: 8935841791812068741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_20
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2533b4025cd5050800000000000000
+      internalID: 5791001438359606011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f024ff5ff9a020800000000000000
+      internalID: 2353693067860571593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dce719d1d1a48f0800000000000000
+      internalID: -555599591194571398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316625dd1bf8ce210800000000000000
+      internalID: 1363622781271565843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_24
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1522b38e55ee5f30800000000000000
+      internalID: 4566339266299438366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_25
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 384
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad075be553cd64880800000000000000
+      internalID: -8626965914401279782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051075459ef738fc0800000000000000
+      internalID: -3493808245790277296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4db5203f04f9970800000000000000
+      internalID: 8763794812347077880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d276d7d1cb925c70800000000000000
+      internalID: 8958393865645486809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a874a4b15aa82f0800000000000000
+      internalID: -969781233116018054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca2763045ba8480800000000000000
+      internalID: -8896098826520974130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffff6ea7297ee7d80800000000000000
+      internalID: -8250902850982969345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9cb48ee7c63cd80800000000000000
+      internalID: -8231616401584174655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb053d7bbe442f0800000000000000
+      internalID: -989406843357839548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd396f260e13140800000000000000
+      internalID: 4697782601972439960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_35
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48754b906666ec4f0800000000000000
+      internalID: -806594694817228924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_36
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92602ca1635423eb0800000000000000
+      internalID: -4741651358988237271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_37
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f75c4152798b710800000000000000
+      internalID: 1709282244105174836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_38
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 288
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de87108f159029490800000000000000
+      internalID: -7741114561838614291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b815c94ab01b44070800000000000000
+      internalID: 8089785494228717963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d5823d76386f80800000000000000
+      internalID: -8113174817361505978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43aa44974fd42d40800000000000000
+      internalID: 5558813338605626187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c60e2bfa44f13a0800000000000000
+      internalID: -6692554999838249917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_43
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4572c6fb3d305cb0800000000000000
+      internalID: -4877331068689943221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef0a00755911fea0800000000000000
+      internalID: -5840859386980200479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53920d48f377bfd70800000000000000
+      internalID: 9077980588590246197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_46
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd715887d5460ac0800000000000000
+      internalID: -3889344436180517438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_47
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb6cf0fddbfe3e0800000000000000
+      internalID: -2022188941926024268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_48
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af45be7bf64b9270800000000000000
+      internalID: 8258272387690483616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_49
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbd40a8f89c3360800000000000000
+      internalID: 7150758501966266184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_50
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19ab321220120c0800000000000000
+      internalID: -4602395002839330399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_51
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 192
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687710b7e6f200fb0800000000000000
+      internalID: -4683691460908714106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2c8c3e88c51a50800000000000000
+      internalID: 6491314951151168132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a203fb8b39641e40800000000000000
+      internalID: 5626237538964538018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75f70de48ce2a4f0800000000000000
+      internalID: -818832126571448964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a50591dde2d8ee0800000000000000
+      internalID: -1257297193819153903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_56
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b576b2026815d03f0800000000000000
+      internalID: -932999911288641701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0157fc14c5d4c3150800000000000000
+      internalID: 5853638674311247120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8424dc28fb983bc0800000000000000
+      internalID: -3803118395108088690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd9c789056663d0800000000000000
+      internalID: -3213770192475006086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_60
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1eade817a301c50800000000000000
+      internalID: 6633866510519165369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f41cae3b5edb9f0800000000000000
+      internalID: -450951826766737548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_62
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834ce50f671ad0fe0800000000000000
+      internalID: -1221142391736581064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_63
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b9baad90a0b5b0800000000000000
+      internalID: -5354603357908912772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_64
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 96
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b9d3b2545422a60800000000000000
+      internalID: 7647751280609041286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c6164659b83f20800000000000000
+      internalID: 3402673298672634202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_66
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd618e02cceabc0800000000000000
+      internalID: -3769851396357694572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d518ecc318f254970800000000000000
+      internalID: 8738442884099768669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_68
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2628b59caefbae190800000000000000
+      internalID: -7932316778538237342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_69
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7faad480c1e007c0800000000000000
+      internalID: -4107034643182997633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_70
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cf0af26b5f9dbd0800000000000000
+      internalID: -2604780746625188783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_71
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea70899cb04ab1930800000000000000
+      internalID: 4115063055066859438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_72
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58628e07d9dc656a0800000000000000
+      internalID: -6460750539328575867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_73
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b1904e75c317240800000000000000
+      internalID: 4787674227057171291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_74
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe6f7ccce0f8620800000000000000
+      internalID: 2778455767801851707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_75
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82448209fb6deb540800000000000000
+      internalID: 5025690352437707816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_76
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a307bed1ac76510800000000000000
+      internalID: 1542423627250547298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solitaire - Cards_77
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61e5f8f3401c250800000000000000
+      internalID: 5963052052650006193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
